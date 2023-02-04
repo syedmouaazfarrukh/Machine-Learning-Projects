@@ -62,7 +62,7 @@ Following are several types of projects in machine learning:
 
 - Transfer learning
    - Object detection
-   - Sentiment analysis:
+   - Sentiment analysis
 
 
 - Generative models
