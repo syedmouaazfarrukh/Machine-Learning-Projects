@@ -1,6 +1,7 @@
 # Machine-Learning-Projects
 ML Projects - Beginner to Advanced
-
+   - [Beginner Level](#Beginner Level Projects)
+   - [Advanced Level](#Advanced Level Projects)
 
 # Technologies
 There are several technologies used in machine learning, including:
@@ -53,16 +54,17 @@ Following are several types of projects in machine learning:
    3. Image compression
    4. Word clustering
 
-
 - Reinforcement learning
-   - Game AI
-   - Robotics
-   - Recommendation systems
-
+   1. Gridworld navigation
+   2. Game playing AI
+   3. Stock trading agent
+   4. Recommendation system
 
 - Transfer learning
    - Object detection
    - Sentiment analysis:
+
+
 - Generative models
    - GANs (Generative Adversarial Networks)
    - VAEs (Variational Autoencoders) 
@@ -71,9 +73,10 @@ Following are several types of projects in machine learning:
    - Language translation
    - Sentiment analysis
 
-
 These projects can be implemented using popular machine learning libraries such as scikit-learn, TensorFlow, or PyTorch
 
+
+# Advanced Level Projects
 
 
 
