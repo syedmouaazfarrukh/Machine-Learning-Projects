@@ -16,25 +16,25 @@ There are several technologies used in machine learning, including:
 # Types of Projects
 Following are several types of projects in machine learning:
 
-1. Supervised learning
-   - Image classification 
+1. [Supervised learning](https://www.ibm.com/topics/supervised-learning)
+   - Image classification
    - Regression analysis
    - Spam detection
-2. Unsupervised learning
+2. [Unsupervised learning](https://www.ibm.com/topics/unsupervised-learning)
    - Clustering 
    - Dimensionality reduction
    - Anomaly detection
-3. Reinforcement learning
+3. [Reinforcement learning](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
    - Game AI
    - Robotics
    - Recommendation systems
-4. Transfer learning
+4. [Transfer learning](https://www.youtube.com/watch?v=3gyeDlZqWko)
    - Object detection
    - Sentiment analysis:
-5. Generative models
+5. [Generative models](https://developers.google.com/machine-learning/gan/generative)
    - GANs (Generative Adversarial Networks)
    - VAEs (Variational Autoencoders) 
-6. NLP (Natural Language Processing
+6. [NLP (Natural Language Processing](https://www.ibm.com/topics/natural-language-processing)
    - Text classification
    - Language translation
    - Sentiment analysis
@@ -47,17 +47,19 @@ Following are several types of projects in machine learning:
    3. Spam classification
    4. Iris flower classification
    
-These projects can be implemented using popular machine learning libraries such as scikit-learn, TensorFlow, or PyTorch
-
-
 - Unsupervised learning
-   - Clustering 
-   - Dimensionality reduction
-   - Anomaly detection
+   1. Customer segmentation
+   2. Anomaly detection
+   3. Image compression
+   4. Word clustering
+
+
 - Reinforcement learning
    - Game AI
    - Robotics
    - Recommendation systems
+
+
 - Transfer learning
    - Object detection
    - Sentiment analysis:
@@ -68,6 +70,9 @@ These projects can be implemented using popular machine learning libraries such 
    - Text classification
    - Language translation
    - Sentiment analysis
+
+
+These projects can be implemented using popular machine learning libraries such as scikit-learn, TensorFlow, or PyTorch
 
 
 
