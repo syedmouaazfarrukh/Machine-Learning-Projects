@@ -1,6 +1,6 @@
 # Machine-Learning-Projects
 ML Projects - Beginner to Advanced
-   - [Beginner Level](#Beginner Level Projects)
+   - [Beginner Level](#beginner-level-projects)
    - [Advanced Level](#Advanced Level Projects)
 
 # Technologies
