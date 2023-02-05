@@ -1,12 +1,12 @@
 # Machine-Learning-Projects
 ML Projects - Beginner to Advanced
    - [Beginner Level](#beginner-level-projects)
-   - [Advanced Level](#Advanced Level Projects)
+   - [Advanced Level](#advanced-level-projects)
 
 # Technologies
 There are several technologies used in machine learning, including:
 
-1. Programming languages - [Python](https://www.youtube.com/watch?v=gfDE2a7MKjA), R, and Julia.
+1. Programming languages - [Python](https://www.youtube.com/watch?v=gfDE2a7MKjA), [R](https://www.youtube.com/watch?v=KlsYCECWEWE), and [Julia](https://www.youtube.com/watch?v=lwj-1mclq0U).
 2. Data storage - SQL, NoSQL databases, and Hadoop.
 3. ML Frameworks - TensorFlow, PyTorch, and scikit-learn.
 4. Deep learning libraries - Keras, Theano, and Caffe.
@@ -33,7 +33,7 @@ Following are several types of projects in machine learning:
    - Object detection
    - Sentiment analysis:
 5. [Generative models](https://developers.google.com/machine-learning/gan/generative)
-   - GANs (Generative Adversarial Networks)
+   - [GANs (Generative Adversarial Networks)](https://www.projectpro.io/article/generative-adversarial-networks-gan-based-projects-to-work-on/530)
    - VAEs (Variational Autoencoders) 
 6. [NLP (Natural Language Processing](https://www.ibm.com/topics/natural-language-processing)
    - Text classification
@@ -46,32 +46,31 @@ Following are several types of projects in machine learning:
    1. Predicting housing prices 
    2. Handwritten digit recognition
    3. Spam classification
-   4. Iris flower classification
    
 - Unsupervised learning
    1. Customer segmentation
    2. Anomaly detection
    3. Image compression
-   4. Word clustering
-
+   
 - Reinforcement learning
    1. Gridworld navigation
    2. Game playing AI
    3. Stock trading agent
-   4. Recommendation system
-
+   
 - Transfer learning
    - Object detection
    - Sentiment analysis
 
-
 - Generative models
-   - GANs (Generative Adversarial Networks)
+   - [GANs (Generative Adversarial Networks)](https://medium.com/analytics-vidhya/top-5-gan-generative-adversarial-networks-projects-for-final-year-computer-science-students-ff35eab94e4f)
+      - [Generative Inpainting Pytorch](https://github.com/daa233/generative-inpainting-pytorch)
+      - [Colorizing with GANs](https://github.com/ImagingLab/Colorizing-with-GANs)
+      - [GestureGAN](https://github.com/Ha0Tang/GestureGAN)
    - VAEs (Variational Autoencoders) 
+
 - NLP (Natural Language Processing
    - Text classification
    - Language translation
-   - Sentiment analysis
 
 These projects can be implemented using popular machine learning libraries such as scikit-learn, TensorFlow, or PyTorch
 
