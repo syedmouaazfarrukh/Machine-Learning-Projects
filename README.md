@@ -43,14 +43,14 @@ Following are several types of projects in machine learning:
 # Beginner Level Projects
 
 - Supervised learning
-   1. Predicting housing prices 
-   2. Handwritten digit recognition
-   3. Spam classification
+   1. [Predicting housing prices](https://towardsdatascience.com/predicting-house-prices-with-machine-learning-62d5bcd0d68f)
+   2. [Handwritten digit recognition](https://www.analyticsvidhya.com/blog/2021/11/newbies-deep-learning-project-to-recognize-handwritten-digit/)
+   3. [Spam classification](https://towardsdatascience.com/email-spam-detection-1-2-b0e06a5c0472)
    
 - Unsupervised learning
-   1. Customer segmentation
-   2. Anomaly detection
-   3. Image compression
+   1. [Customer segmentation](https://towardsdatascience.com/customer-segmentation-with-machine-learning-a0ac8c3d4d84)
+   2. [Anomaly detection](https://serokell.io/blog/anomaly-detection-in-machine-learning)
+   3. [Image compression](https://towardsdatascience.com/ai-based-image-compression-the-state-of-the-art-fb5aa6042bfa)
    
 - Reinforcement learning
    1. Gridworld navigation
