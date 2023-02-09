@@ -54,13 +54,13 @@ Following are several types of projects in machine learning:
    3. [Image compression](https://towardsdatascience.com/ai-based-image-compression-the-state-of-the-art-fb5aa6042bfa)
    
 - Reinforcement learning
-   1. Gridworld navigation
-   2. Game playing AI
-   3. Stock trading agent
+   1. [Gridworld navigation](https://towardsdatascience.com/reinforcement-learning-implement-grid-world-from-scratch-c5963765ebff)
+   2. [Game playing AI](https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a)
+   3. [Stock trading agent](https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning)
    
 - Transfer learning
-   - Object detection
-   - Sentiment analysis
+   - [Object detection](https://github.com/matterport/Mask_RCNN)
+   - [Sentiment analysis](https://data-flair.training/blogs/python-sentiment-analysis/)
 
 - Generative models
    - [GANs (Generative Adversarial Networks)](https://medium.com/analytics-vidhya/top-5-gan-generative-adversarial-networks-projects-for-final-year-computer-science-students-ff35eab94e4f)
