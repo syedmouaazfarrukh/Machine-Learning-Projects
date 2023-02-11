@@ -78,5 +78,14 @@ These projects can be implemented using popular machine learning libraries such 
 
 # Advanced Level Projects
 
+- Supervised learning   
+- Unsupervised learning
+- Reinforcement learning
+- Transfer learning
+- Generative models
+- NLP (Natural Language Processing
+
+# Contributions
+- [Guidelines](https://github.com/syedmouaazfarrukh/Machine-Learning-Projects/blob/main/CONTRIBUTION.md)
 
 
