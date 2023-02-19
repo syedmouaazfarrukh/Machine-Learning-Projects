@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 
 ML Projects - Beginner to Advanced
    - [Beginner Level](#beginner-level-projects)
