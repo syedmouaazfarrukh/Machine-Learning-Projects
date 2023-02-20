@@ -4,6 +4,7 @@ ML Projects - Beginner to Advanced
    - [Beginner Level](#beginner-level-projects)
    - [Advanced Level](#advanced-level-projects)
 
+
 # Technologies
 There are several technologies used in machine learning, including:
 
