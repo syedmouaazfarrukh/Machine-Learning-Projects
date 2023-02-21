@@ -12,7 +12,7 @@ There are several technologies used in machine learning, including:
 2. Data storage - SQL, NoSQL databases, and Hadoop.
 3. ML Frameworks - TensorFlow, PyTorch, and scikit-learn.
 4. Deep learning libraries - Keras, Theano, and Caffe.
-5. Tools for Data Visualization and analysis - Matplotlib, ggplot, and Tableau.
+5. Tools for Data Visualization & analysis - Matplotlib, ggplot, and Tableau.
 6. Cloud platforms - AWS, GCP, Azure.
 
 
