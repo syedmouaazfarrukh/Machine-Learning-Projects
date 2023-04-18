@@ -79,7 +79,9 @@ These projects can be implemented using popular machine learning libraries such 
 
 # Advanced Level Projects
 
-- Supervised learning   
+- Supervised learning
+   - Image Processing
+      - [Harris Corner Detection and Stitch Images](https://github.com/syedmouaazfarrukh/Machine-Learning-Projects/tree/main/Advanced/Supervised%20Learning/Image%20Classification/Harris%20Corner%20Detector%20%26%20Image%20Stitcher)
 - Unsupervised learning
 - Reinforcement learning
 - Transfer learning
